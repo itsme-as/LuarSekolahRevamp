@@ -26,42 +26,42 @@ class FaqSeeder extends Seeder
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-dollar-sign',
             'question' => 'Cara Membeli Pelatihan',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-certificate',
             'question' => 'Sertifikat dan Status Aktif di Dashboard Prakerja',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-ticket',
             'question' => 'Kode Voucher',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-briefcase',
             'question' => 'Intensif Prakerja',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-user',
             'question' => 'Akun',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-address-card',
             'question' => 'Kontak Mitra',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-video',
             'question' => 'Live Session',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);
         Faq::create([
-            'icon' => '<i></i>',
+            'icon' => 'fa-solid fa-id-card-clip',
             'question' => 'Kontak Kartu Prakerja',
             'answer' => 'https://pbi.belajarbekerja.com/',
         ]);

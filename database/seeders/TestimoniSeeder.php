@@ -28,7 +28,7 @@ class TestimoniSeeder extends Seeder
         Testimoni::create([
             'name' => 'Nagita Safitri',
             'position' => 'Alumni Program UI/UX Design',
-            'image' => 'assets/profile1.png',
+            'image' => 'assets/profile2.png',
             'campus' => 'Universitas Gadjah Mada',
             'message' => '“Materinya mudah dipahami dan 
             langsung bisa diterapkan dalam 
@@ -38,7 +38,7 @@ class TestimoniSeeder extends Seeder
         Testimoni::create([
             'name' => 'Dimas Prakoso',
             'position' => 'Alumni Program Desain Grafis',
-            'image' => 'assets/profile1.png',
+            'image' => 'assets/profile3.png',
             'campus' => 'Universitas Indonesia',
             'message' => '“Materinya terstruktur, praktiknya 
             relevan, dan sangat mendukung 
@@ -48,7 +48,7 @@ class TestimoniSeeder extends Seeder
         Testimoni::create([
             'name' => 'Anisa Putri',
             'position' => 'Alumni Program Web Development',
-            'image' => 'assets/profile1.png',
+            'image' => 'assets/profile4.png',
             'campus' => 'Universitas Dipenogoro',
             'message' => '“Pengalaman belajarnya lengkap, 
             dari teori sampai praktik langsung 
